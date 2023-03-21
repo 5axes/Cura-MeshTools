@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Mesh Tools\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-20 15:21+0000\n"
-"PO-Revision-Date: 2023-03-21 16:23+0200\n"
+"PO-Revision-Date: 2023-03-21 16:41+0200\n"
 "Last-Translator: 5axes <5axes@free.fr>\n"
 "Language-Team: 5axes\n"
 "Language: fr\n"
@@ -134,7 +134,7 @@ msgstr "est étanche"
 #: MeshTools.py:308
 msgctxt "@info:status"
 msgid "is not watertight and may not print properly"
-msgstr "n'est pas étanche et peut ne pas imprimer correctement"
+msgstr "n'est pas étanche et peut ne pas s'imprimer correctement"
 
 #: MeshTools.py:310
 #, python-brace-format
@@ -163,7 +163,7 @@ msgstr "surface: %d mm2, volume: %d mm3"
 msgctxt "@info:status"
 msgid "The mesh needs more extensive repair to become watertight"
 msgstr ""
-"La maille a besoin de réparations plus importantes pour devenir étanche."
+"Le maillage a besoin de réparations plus importantes pour devenir étanche."
 
 #: MeshTools.py:366
 msgctxt "@info:status"
